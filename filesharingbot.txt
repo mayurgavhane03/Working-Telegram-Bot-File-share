@@ -1,0 +1,49 @@
+[05-Jun-24 00:10:18 - WARNING] - bot - Peer id invalid: -1002178820767
+[05-Jun-24 00:10:18 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002178820767
+[05-Jun-24 00:10:18 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[05-Jun-24 00:12:32 - WARNING] - bot - Peer id invalid: -1002163414757
+[05-Jun-24 00:12:32 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002163414757
+[05-Jun-24 00:12:32 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[05-Jun-24 00:13:05 - WARNING] - bot - Peer id invalid: 1002163414757
+[05-Jun-24 00:13:05 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value 1002163414757
+[05-Jun-24 00:13:05 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[05-Jun-24 00:18:33 - WARNING] - bot - Peer id invalid: -1002163414757
+[05-Jun-24 00:18:33 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002163414757
+[05-Jun-24 00:18:33 - INFO] - bot - 
+Bot Stopped. Join https://t.me/CodeXBotzSupport for support
+[05-Jun-24 00:21:17 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[05-Jun-24 00:31:41 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Jun-24 00:31:41 - INFO] - bot - Bot stopped.
+[05-Jun-24 00:31:50 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[05-Jun-24 00:31:50 - INFO] - bot -  
+
+      Bot is started 
+[05-Jun-24 00:32:57 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Jun-24 00:32:57 - INFO] - bot - Bot stopped.
+[05-Jun-24 00:36:22 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[05-Jun-24 00:36:22 - INFO] - bot -  
+
+      Bot is started 
+[05-Jun-24 00:39:38 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Jun-24 00:39:38 - INFO] - bot - Bot stopped.
+[05-Jun-24 00:39:46 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[05-Jun-24 00:39:46 - INFO] - bot -  
+
+      Bot is started 
+[05-Jun-24 00:47:26 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Jun-24 00:47:26 - INFO] - bot - Bot stopped.
